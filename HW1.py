@@ -15,7 +15,7 @@ def github() -> str:
     Takes no arguments and returns a link to my solutions on Github.
     """
 
-    return "https://github.com/<user>/<repo>/blob/main/<filename.py>"
+    return "https://github.com/jkirsch8/econ481/blob/main/HW1.py"
 
 
 # In[ ]:
