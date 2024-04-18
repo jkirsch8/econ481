@@ -9,7 +9,7 @@ def github() -> str:
     Returns a link to this code in my github repository
     """
 
-    return "https://github.com/jkirsch8/econ481/blob/main/HW3.py"
+    return "https://github.com/jkirsch8/econ481/edit/main/HW3%20(2).py"
 
 
 # In[29]:
