@@ -10,7 +10,7 @@ def github() -> str:
     Some docstrings.
     """
     
-    return "https://github.com/<user>/<repo>/blob/main/<filename.py>"
+    return "https://github.com/jkirsch8/econ481/blob/main/HW4.py"
 
 
 # In[21]:
